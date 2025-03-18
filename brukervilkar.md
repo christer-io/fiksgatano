@@ -6,7 +6,7 @@ Velkommen til FiksGata.no! Ved å bruke vår tjeneste godtar du følgende vilkå
 
 ## 1. Om tjenesten
 
-FiksGata.no lar brukere rapportere infrastrukturproblemer, som hull i veien, manglende gatelys og annet, til riktig offentlig myndighet basert på geografisk plassering. Vi bruker data fra Statens Vegvesen, Kartverket og Meteorologisk institutt for å rute meldingene.
+FiksGata.no lar brukere rapportere infrastrukturproblemer, som hull i veien, manglende gatelys og annet, til riktig offentlig myndighet basert på geografisk plassering. Vi bruker data fra Statens Vegvesen, Kartverket og Meteorologisk institutt for å veilede brukerne og for å rute meldingene til riktig instans.
 
 ## 2. Brukerkonto og personopplysninger
 
