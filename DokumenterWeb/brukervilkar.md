@@ -8,8 +8,9 @@ FiksGata.no lar brukere rapportere infrastrukturproblemer, som hull i veien, man
 
 ## 2. Brukerkonto og personopplysninger
 For å sende inn en melding kan du logge inn med Google eller GitHub.
-Vi lagrer din e-postadresse for å knytte meldingen til din konto og for eventuelle oppdateringer om saken.
-Vi benytter oss av Google og Github for pålogging.
+Vi lagrer din e-postadresse for å knytte meldingen til din konto og for eventuelle oppdateringer om saken. Vi benytter oss av Google og Github for pålogging.
+
+FiksGataMi deler data under lisensen CC-BY-SA-4.0, men vi deler ikke noen personlig opplysninger som for eksempel epost fra våre bidragsytere. 
 
 ## 3. Brukerens ansvar
 Du er ansvarlig for at meldingene du sender inn er sendt inn med ærlige hensikter.
