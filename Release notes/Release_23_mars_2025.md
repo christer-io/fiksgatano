@@ -14,6 +14,7 @@ En første veldig enkel side med API dokumentasjon for tre nye endepunkter.
 3. Et endepunkt som returnerer alle fylker
 4. Et endepunkt som returnerer alle meldingskategorier som benyttes på plattformen
 
+Merk: Denne første versjonen av API dokumentasjon inneholder kun GET. 
 
 ## 2. Re-design av forside for mobil og stor skjerm og side for å utforske nye meldinger
 Endret design på forsiden for PC/stor skjerm. Har skiftet til Material UI rammeverket for componenter og buttons. 
