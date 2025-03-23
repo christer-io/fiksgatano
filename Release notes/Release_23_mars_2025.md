@@ -39,10 +39,10 @@ På denne siden vil det også komme funksjonalitet for å se alle saker per fylk
 Første versjon av komponent som henter data fra Statens Vegvesen API for å estimere om en sak er i nærheten av en vei og i så fall hvilken vei. 
 Ikke implmementer: Neste fase er en enkel beslutnings-algoritme som sender epost til fylke, kommune eller statens vegvesen basert på hvilken vei man melder sak ved.
 
-## Henter data fra Yr.no API
+## 8. Henter data fra Yr.no API
 Ikke en veldig sentral komponent men i noen tilfeller vil det være relevant å ha informasjon om nedbør for en gitt lokasjon de neste 6 timene. Jeg har derfor laget en komponent som henter data fra Yr basert på den geolokasjon som er valgt av brukeren. 
 
-## Her data fra Statens Kartverk 
+## 9.  Her data fra Statens Kartverk 
 På samme måte som for Statens Vegvesen er det viktig å ha informasjon om hvilken kommune en feil/sak er meldt i. Henter data fra API hos Kartverket som gir kommune ut som verdi på en gitt lokasjon. 
 
 
