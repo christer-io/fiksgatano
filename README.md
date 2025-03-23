@@ -1,4 +1,4 @@
-# Fiks Gata Mi – En ny plattform for enklere innbyggerdialog
+# Fiks Gata Mi – En plattform for enklere innbyggerdialog
 Nå lanseres Fiks Gata Mi, en digital tjeneste som gjør det enklere for innbyggere å melde fra om utfordringer i nærmiljøet – enten det er et hull i veien, hensatte bilvrak eller forsøpling i parken. Plattformen, som er tilgjengelig på fiksgata.no, sørger for at meldingen din automatisk blir sendt til riktig kommune, fylkeskommune eller Statens Vegvesen.
 
 ## Kombinerer crowdsourcing og offentlige, åpne data
