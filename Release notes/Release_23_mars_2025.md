@@ -35,3 +35,14 @@ Har lagt til multiline edit av beskrivelse og gjort redigeringen mer brukervennl
 Egen side lenket fra forsiden hvor bruker kan filtrere på kommune, løst/ikke løst og kategori.
 På denne siden vil det også komme funksjonalitet for å se alle saker per fylke, men det kommer i neste sprint. 
 
+## 7. Integrasjon Statens Vegvesen API
+Første versjon av komponent som henter data fra Statens Vegvesen API for å estimere om en sak er i nærheten av en vei og i så fall hvilken vei. 
+Ikke implmementer: Neste fase er en enkel beslutnings-algoritme som sender epost til fylke, kommune eller statens vegvesen basert på hvilken vei man melder sak ved.
+
+## Henter data fra Yr.no API
+Ikke en veldig sentral komponent men i noen tilfeller vil det være relevant å ha informasjon om nedbør for en gitt lokasjon de neste 6 timene. Jeg har derfor laget en komponent som henter data fra Yr basert på den geolokasjon som er valgt av brukeren. 
+
+## Her data fra Statens Kartverk 
+På samme måte som for Statens Vegvesen er det viktig å ha informasjon om hvilken kommune en feil/sak er meldt i. Henter data fra API hos Kartverket som gir kommune ut som verdi på en gitt lokasjon. 
+
+
