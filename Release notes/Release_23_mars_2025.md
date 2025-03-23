@@ -30,3 +30,7 @@ Et etablert eget Github-prosjekt med dokumentasjon, backlog og mulighet til å b
 ## 5. Endret design og funksjonalitet på "mine saker"
 Har lagt til multiline edit av beskrivelse og gjort redigeringen mer brukervennlig for mobil. 
 
+## 6. Funksjonalitet for å filtrerer på saker per kommune og kategori
+Egen side lenket fra forsiden hvor bruker kan filtrere på kommune, løst/ikke løst og kategori.
+På denne siden vil det også komme funksjonalitet for å se alle saker per fylke, men det kommer i neste sprint. 
+
