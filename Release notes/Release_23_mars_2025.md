@@ -25,7 +25,8 @@ Kontakt siden inkluderer kontakt via e-post, mulighet for å legge til issues p�
 ## 4. Github prosjekt med back-log og roadmap
 Et etablert eget Github-prosjekt med dokumentasjon, backlog og mulighet til å bidra med issues. OBS: selve kildekoden til plattformen er ikke inkludert i denne fasen. Koden blir offentlig senere, etter gjennomgang og kvalitetssikring. 
 
-[Lenke til prosjekt.](https://github.com) 
+[Lenke til prosjekt.]([https://github.com](https://github.com/christer-io/fiksgatano)) 
+[Lenke til roadmap](https://github.com/users/christer-io/projects/4/views/4)
 
 ## 5. Endret design og funksjonalitet på "mine saker"
 Har lagt til multiline edit av beskrivelse og gjort redigeringen mer brukervennlig for mobil. 
