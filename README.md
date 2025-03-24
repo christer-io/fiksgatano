@@ -10,4 +10,4 @@ Med Fiks Gata Mi slipper innbyggerne å finne ut hvem som har ansvaret for en sa
 ## Brobygger mellom innbyggere og offentlige etater
 Ved å gjøre det enklere å melde inn saker og følge opp status, styrker Fiks Gata Mi dialogen mellom innbyggere og offentlige myndigheter. Dette bidrar til mer åpenhet, bedre samarbeid og et bedre lokalmiljø for alle.
 
-En tidligere utgave av Fiks Gata Mi ble lansert første gang i 2011, og ble lenge brukt av mange titalls kommuner. Den nye løsningen er en moderne utgave som integrerer med offentlige åpne data og som forenkler prosessen for deg som innbygger.
+En tidligere utgave av Fiks Gata Mi ble lansert første gang i 2011, og ble lenge brukt av mange titalls kommuner. Den nye løsningen er en moderne utgave som integrerer med offentlige åpne data og som forenkler prosessen for deg som innbygger. Den nye løsningen er inspirert av den opprinnelige FiksGataMi plattformen og det veldig gode arbeidet som ble gjort av organisasjonen Nuug i det opprinnelige prosjektet. Vi har nå utviklet en moderne utgave som integrerer med offentlige åpne data og som forenkler prosessen for deg som innbygger.
