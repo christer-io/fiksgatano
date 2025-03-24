@@ -43,6 +43,7 @@ Ikke implmementer: Neste fase er en enkel beslutnings-algoritme som sender epost
 Ikke en veldig sentral komponent men i noen tilfeller vil det være relevant å ha informasjon om nedbør for en gitt lokasjon de neste 6 timene. Jeg har derfor laget en komponent som henter data fra Yr basert på den geolokasjon som er valgt av brukeren. 
 
 ## 9.  Her data fra Statens Kartverk 
-På samme måte som for Statens Vegvesen er det viktig å ha informasjon om hvilken kommune en feil/sak er meldt i. Henter data fra API hos Kartverket som gir kommune ut som verdi på en gitt lokasjon. 
+På samme måte som for Statens Vegvesen er det viktig å ha informasjon om hvilken kommune en feil/sak er lokalisert i. For å løse dette henter jeg data fra API hos Kartverket som gir kommune ut som verdi på en gitt lokasjon. 
+
 
 
