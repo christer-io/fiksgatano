@@ -1,6 +1,6 @@
 # Release notes 23. mars 2025
 
-Relativt mye nytt i denne sprinten, inkludert funksjonalitet og ny-utvikling av brukergrensesnitt. 
+Relativt mye nytt i denne sprinten, inkludert funksjonalitet og ny-utvikling av brukergrensesnitt. Er også mye som er helt fersk funksjonalitet og kode, så jeg regner med at det vil ta litt tid før alt er feilfritt, men det meste av helt grunnleggende funksjonalitet skal nå funke. 
 
 ## 1. API documentasjon
 En første veldig enkel side med API dokumentasjon for tre nye endepunkter. 
